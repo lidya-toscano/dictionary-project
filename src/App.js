@@ -10,7 +10,7 @@ function App() {
       </header>
 
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="Pet" />
       </main>
 
       <footer className="text-centered">

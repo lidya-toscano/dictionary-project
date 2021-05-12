@@ -1,0 +1,31 @@
+form,
+h2.form {
+  background-color: #74ebd5;
+  background-image: linear-gradient(90deg, #74ebd5 0%, #9face6 100%);
+  padding: 0 50px 10px 50px;
+  margin-bottom: 0;
+  font-size: 20px;
+}
+
+.Hint {
+  background-color: #74ebd5;
+  background-image: linear-gradient(90deg, #74ebd5 0%, #9face6 100%);
+  color: #2d3047;
+  padding: 0 50px 50px 50px;
+}
+
+.Dictionary section {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.15);
+  margin: 50px;
+  padding: 30px;
+}
+
+.Dictionary input {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  color: #2d3047;
+  width: 100%;
+  padding: 6px 4px;
+}
